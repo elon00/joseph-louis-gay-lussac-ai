@@ -1,0 +1,14 @@
+{
+  "project": "joseph-louis-gay-lussac-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "6ANmGBmU5uRej48G1zqwYZckN2qkFKMpEYNW7pXpaoxT",
+  "vault_account": "6WaNNVpbz95jkPbuhzMTWDAnmqfjT5gbgzvri6gqgZpD",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "CMMuSRkf34zbUjk33ueKvb2xPVmF5y36FPjVBUvFJpf21GpSFnThQDzBEBPFAKLSL8qu71WvrDdfb87f7huCQBH",
+  "account_tx": "5HipvwVLgKDgpXc9rGK8ZtLcnVmTEYsK8Z9U5HSbicT8zWLca2EWczFCg5ugfNf9ZVLzWiVC7qhc6d8NsKP7NVp",
+  "mint_tx": "5LjYZ9cPiAqibEWLAyHFRRsnwEMgyjGnRtXVBbNGUXzTAWdA82BUq4itBHvuUtZRK8CZB7S9CrKdKRp7Jp1FDMrS",
+  "solana_explorer_mint": "https://explorer.solana.com/address/6ANmGBmU5uRej48G1zqwYZckN2qkFKMpEYNW7pXpaoxT?cluster=devnet",
+  "timestamp": "2026-10-26 16:45:11 UTC"
+}
